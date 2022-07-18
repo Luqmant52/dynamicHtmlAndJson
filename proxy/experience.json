@@ -1,0 +1,21 @@
+{
+  "experience": {
+    "company": "Allied Consultant's",
+    "designaton": "NodeJS Developer",
+    "discription": "We understand that the only way to deliver genuine value to our customers is by hiring the right people for the job.",
+    "from": "25/08/2021",
+    "end": "present",
+    "contact": "(042)-5485632",
+    "city": "Lahore",
+    "tasks": [
+      "Node JS",
+      "Express JS",
+      "REST Api's",
+      "Multer",
+      "JsonWebToken",
+      "EJS",
+      "Hashing",
+      "Create Databases and their Relationships"
+    ]
+  }
+}
