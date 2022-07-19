@@ -3,25 +3,25 @@
     padding: 0px;
 }
 #header{
-    height: 60px;
+    height: 80px;
     background-color: bisque;
 }
 #sidebar{
     width: 300px;
-    height: 680px;
+    height: 640px;
     background-color: rgb(251, 236, 219);
     float: left;
 }
 #inner-main{
     background-color: rgb(235, 165, 85);
     margin-left: 300px;
-    width: 1236px;
-    height: 660px;
+    width: 1219.2px;
+    height: 640px;
 }
 #inner-main #summary{
     background-color: rgb(246, 151, 43);
     width: 1236px;
-    height: 330px;
+    height: 290px;
 }
 #inner-main #inner-temp{
     display: flex;
